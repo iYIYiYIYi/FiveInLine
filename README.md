@@ -1,2 +1,2 @@
 # FiveInLine
-初学者的基于Java swing的五子棋
+Java Swing 五子棋，沙雕ai
